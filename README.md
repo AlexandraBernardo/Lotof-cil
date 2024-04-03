@@ -1,1 +1,33 @@
-# Lotofacil
+ _*LOTOFÁCIL* sem interface_
+
+_Bibliotecas:_
+
+• ```Random```
+
+• ```Scanner```
+
+_Para Rodar o LotoFacil_
+
+• ```Passo 1```: abra o Intellij ou à ide da sua Preferência;
+
+• ```Passo 2```: Clique no botão Run no Canto Superior Direito da Ide;
+
+• ```Passo 3```: Selecione uma das opcoes para iniciar as apostas;
+
+_Diciplina_ :
+Linguagem de Programação.
+
+_Regras_:
+
+• Regras para a aposta de 0 a 100:
+
+• Documentação: 
+
+https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html;
+
+https://docs.oracle.com/javase/8/docs/api/java/util/Random.html;  
+
+• Regras para a aposta de A à Z:
+
+• Documentação:
+ https://docs.oracle.com/javase/8/docs/api/java/lang/Character.html;
