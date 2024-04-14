@@ -1,4 +1,4 @@
- _*LOTOFÁCIL* sem interface_
+ _*LOTOFÁCIL*_
 
 _Bibliotecas:_
 
